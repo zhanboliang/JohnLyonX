@@ -11,37 +11,43 @@
   <img src="https://komarev.com/ghpvc/?username=zhanboliang&label=Profile%20views&color=a8501e&style=flat" alt="zhanboliang" />
 </p>
 
----
+<hr />
 
+<h3 align="left">About</h3>
 
-<h3 align="left">About:</h3>
 <p align="left">
-Solo developer working in **Rust** and on **AI agents**.
-Writing about the things I'm building, the tools I use to think, and the ideas that won't leave me alone.
-
-- 🌐 Blog · [zhanbo.dev](https://zhanbo.dev)
-- 📝 Currently building: **loongclaw**
-- 📫 Reach me: [liangzhanbo06@gmail.com](mailto:liangzhanbo06@gmail.com)
-
+  Solo developer working in <strong>Rust</strong> and on <strong>AI agents</strong>.<br />
+  Writing about the things I'm building, the tools I use to think, and the ideas that won't leave me alone.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<ul>
+  <li>🌐 Blog · <a href="https://zhanbo.dev">zhanbo.dev</a></li>
+  <li>📝 Currently building: <strong>loongclaw</strong></li>
+  <li>📫 Reach me: <a href="mailto:liangzhanbo06@gmail.com">liangzhanbo06@gmail.com</a></li>
+</ul>
+
+<h3 align="left">Languages and Tools</h3>
+
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### GitHub Stats
+<h3 align="left">GitHub Stats</h3>
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhanboliang&show_icons=true&locale=en&theme=default" alt="zhanboliang stats" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhanboliang&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
 </p>
 
-### Support
+<h3 align="left">Support</h3>
 
-<p>
+<p align="left">
   <a href="https://www.buymeacoffee.com/liangzhanbg">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="44" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+<!--
+zhanboliang/zhanboliang is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->

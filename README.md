@@ -43,7 +43,3 @@ Writing about the things I'm building, the tools I use to think, and the ideas t
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="44" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
-
-<!---
-zhanboliang/zhanboliang is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->

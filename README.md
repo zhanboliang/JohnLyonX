@@ -30,7 +30,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=bash,docker,go,java,linux,mysql,nginx,nodejs,postgres,python,react,rust,spring,ts,vue&perline=15"
+    src="https://skillicons.dev/icons?i=rust,go,java,python,react,vue,nodejs,ts,postgres,mysql,docker,bash,linux,nginx,&perline=15"
     alt="Languages and Tools"
   />
 </p>

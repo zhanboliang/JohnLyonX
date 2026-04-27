@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm John Lyon [Bobo]</h1>
+<h1 align="center">Hi 👋, I'm Zhanbo [Bobo]</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
-<h3 align="center">A passionate full-stack developer from China</h3>
+<h3 align="center">Solo developer working in Rust and on AI agents. Writing here about the things I'm building, the tools I use to think, and the ideas that won't leave me alone.
+
+</h3>
 
 
 
-- 👨‍💻 I’m **Rust** and **Full-stack** Developer 
+- 👨‍💻 I’m **Rust** and **AI Agent** Developer 
 
 - 🌱 All of my projects are available at Github
 
